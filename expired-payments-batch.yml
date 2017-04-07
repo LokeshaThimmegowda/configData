@@ -1,3 +1,3 @@
 batch:
   execution:
-    enabled: false
+    enabled: true
